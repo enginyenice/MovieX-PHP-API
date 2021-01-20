@@ -22,4 +22,4 @@ Database klasörü içerisinde bulunan ```enginpyx_moviex.sql``` sql dosyasını
 $this->apiUrl = "http://www.omdbapi.com/?apikey={API Anahtarı}";
 ```
 
-## [MovieX API Kodları](https://github.com/enginyenice/MovieX-Mobil-App-Ionic-Angular)
+## [MovieX Mobil APP Ionic Angular](https://github.com/enginyenice/MovieX-Mobil-App-Ionic-Angular)
