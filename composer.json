@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jimmiw/php-time-ago": "^3.2"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "140f030068719245bd0d5b848632347b",
+    "packages": [
+        {
+            "name": "jimmiw/php-time-ago",
+            "version": "3.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jimmiw/php-time-ago.git",
+                "reference": "d1f083c3945fd454384aa751f270e6fcde1a1368"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jimmiw/php-time-ago/zipball/d1f083c3945fd454384aa751f270e6fcde1a1368",
+                "reference": "d1f083c3945fd454384aa751f270e6fcde1a1368",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "require-dev": {
+                "phpmd/phpmd": "@stable",
+                "phpunit/phpunit": "^6",
+                "squizlabs/php_codesniffer": "^3.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Westsworld\\": "src/Westsworld/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jimmi Westerberg",
+                    "homepage": "http://www.westsworld.dk",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Simple module, that displays the date in a \"time ago\" format",
+            "homepage": "https://github.com/jimmiw/php-time-ago",
+            "keywords": [
+                "distance of time",
+                "time ago",
+                "time ago in words"
+            ],
+            "support": {
+                "issues": "https://github.com/jimmiw/php-time-ago/issues",
+                "source": "https://github.com/jimmiw/php-time-ago/tree/3.2.1"
+            },
+            "time": "2020-10-20T21:58:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
