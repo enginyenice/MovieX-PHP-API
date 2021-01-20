@@ -1,6 +1,6 @@
 # MovieX-PHP-API
 
-## Paket bağımlıklarının yüklenmesi
+## Paket bağımlılıklarının yüklenmesi
 ```composer install```
 
 ## Veritabanı kurulumu
